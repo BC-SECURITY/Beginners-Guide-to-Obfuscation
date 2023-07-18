@@ -8,3 +8,7 @@ Defenders are constantly adapting their security to counter new threats. Our mis
 - Demonstrate the concept of least obfuscation.
 - Introduce Microsoft's Antimalware Scan Interface (AMSI) and explain its importance.
 - Demonstrate obfuscation methodology for .NET payloads.
+
+## Recordings
+- [Beginner's Guide to Obfuscation - 2022](https://www.youtube.com/watch?v=wvKwk1wcXvM)
+- [Beginner's Guide to Obfuscation - 2021](https://www.youtube.com/watch?v=lP2KF7_Kwxk)
